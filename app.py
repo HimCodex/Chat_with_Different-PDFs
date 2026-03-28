@@ -97,9 +97,6 @@ def user_input(user_question):
 
     st.write("Reply:", response.content)
 
-    st.write("Reply:")
-    st.write(response.content)
-
 # Streamlit ui
 
 def main():
