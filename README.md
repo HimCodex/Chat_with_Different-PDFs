@@ -42,11 +42,12 @@ This project uses **RAG (Retrieval-Augmented Generation)** to provide accurate a
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/chat-with-pdf.git
-cd chat-with-pdf
+git clone https://github.com/HimCodex/Chat_with_Different-PDFs.git
+activate virtual environments: (#in windows)
 python -m venv .venv
-.venv\Scripts\activate   # Windows
+.venv\Scripts\activate   
 
+install all packages at once:
 pip install -r requirements.txt
 ```
 
